@@ -1,0 +1,29 @@
+; Development configuration 
+
+[DB]
+dbtype = mysql
+dbhost = 127.0.0.1
+dbname = prwb_2223_g01_it3
+dbuser = 2007yochebli
+dbpassword = zyoAiFuETbsr/7ig
+;mysql_path = "C:\PRWB2223\tools\xampp\mysql\bin\"
+;mysql_path = "/Applications/XAMPP/xamppfiles/bin/" ; pour macOS
+mysql_path = /usr/bin
+
+[Controllers]
+default_controller = main
+
+[Web]
+web_root = "/prwb_2223_g01/"
+
+[Sanitization]
+;insafe_inputs contient un tableau de noms d'inputs qui ne seront pas sanitizées
+;insafe_inputs[] = markdown_body
+;insafe_inputs[] = boards
+
+[Misc]
+group_size = 3 ; 2 ou 3
+
+justvalidate = 1
+;justvalidate = 0
+
