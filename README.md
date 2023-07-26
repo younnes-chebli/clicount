@@ -10,6 +10,8 @@ Clicount Web Application
 ## Architecture
 * MVC
 
+## The App
+
 ![image](https://github.com/younnes-chebli/clicount/assets/106768273/3fd54484-c15f-4536-a053-0bda2ac238ab)
 
 ![image](https://github.com/younnes-chebli/clicount/assets/106768273/ed50b06f-b8a3-49ac-9050-b4d740dbe4be)
